@@ -14,5 +14,4 @@ const POST = () => {
     
     return response;
 };
-
 export { POST };
